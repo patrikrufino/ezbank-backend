@@ -1,0 +1,27 @@
+# Arquivos de compilação e dependências
+*.o
+*.lo
+*.la
+*.al
+*.so
+*.dll
+*.exe
+*.out
+*.pyc
+__pycache__/
+
+# Arquivos gerados pelos IDEs e editores de texto
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs e arquivos temporários
+*.log
+*.bak
+*.cache
+*.csv~
+
+# Pastas específicas
+venv/
+instance/
